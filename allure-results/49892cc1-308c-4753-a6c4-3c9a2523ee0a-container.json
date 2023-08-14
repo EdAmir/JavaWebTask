@@ -1,0 +1,12 @@
+{
+  "uuid": "49892cc1-308c-4753-a6c4-3c9a2523ee0a",
+  "name": "automationTask",
+  "children": [
+    "2d79b3b3-ec36-4fda-b10f-fbe1de56d6a0"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1691930079514,
+  "stop": 1691930112513
+}

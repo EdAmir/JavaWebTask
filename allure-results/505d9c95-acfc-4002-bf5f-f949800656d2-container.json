@@ -1,0 +1,25 @@
+{
+  "uuid": "505d9c95-acfc-4002-bf5f-f949800656d2",
+  "name": "tests.BaseTest.setup",
+  "children": [
+    "7a26fb3f-7782-4afa-95ff-1875eb66eafa"
+  ],
+  "description": "",
+  "befores": [
+    {
+      "name": "setup",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1691940454098,
+      "stop": 1691940460517
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1691940454098,
+  "stop": 1691940460517
+}

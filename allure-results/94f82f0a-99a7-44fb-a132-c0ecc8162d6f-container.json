@@ -1,0 +1,24 @@
+{
+  "uuid": "94f82f0a-99a7-44fb-a132-c0ecc8162d6f",
+  "name": "automationTask",
+  "children": [
+    "5d01b845-68de-408e-950c-50f465f27fa7"
+  ],
+  "befores": [],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1691943015325,
+      "stop": 1691943020669
+    }
+  ],
+  "links": [],
+  "start": 1691943002051,
+  "stop": 1691943020669
+}

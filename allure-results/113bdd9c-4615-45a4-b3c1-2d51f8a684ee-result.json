@@ -1,0 +1,61 @@
+{
+  "name": "LoginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1691930293629,
+  "stop": 1691930296780,
+  "uuid": "113bdd9c-4615-45a4-b3c1-2d51f8a684ee",
+  "historyId": "6af30762b2aa759666af2aa10425d980",
+  "fullName": "tests.LoginPageTest.LoginTest",
+  "labels": [
+    {
+      "name": "package",
+      "value": "tests.LoginPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "tests.LoginPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginTest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "automationTask"
+    },
+    {
+      "name": "subSuite",
+      "value": "tests.LoginPageTest"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-TV4MNJV9"
+    },
+    {
+      "name": "thread",
+      "value": "19524@LAPTOP-TV4MNJV9.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": []
+}
